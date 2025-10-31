@@ -1,4 +1,9 @@
 # 4.Execution_of_NetworkCommands
+
+Name:Dinesh V
+
+Reg no:212224040076
+
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
 ## Procedure: To do this EXPERIMENT- follows these steps:
@@ -27,6 +32,9 @@ This commands includes
 <BR>
 
 ## Output
+
+[Exp4.pdf](https://github.com/user-attachments/files/23256900/Exp4.pdf)
+
 
 ## Result
 Thus Execution of Network commands Performed 
